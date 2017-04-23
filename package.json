@@ -1,0 +1,26 @@
+{
+  "name": "js-hint",
+  "version": "0.0.1",
+  "description": "js-hint",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radzwi/js.git"
+  },
+  "keywords": [
+    "kodilla"
+  ],
+  "author": "Bartlomiej Radzwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radzwi/js/issues"
+  },
+  "homepage": "https://github.com/radzwi/js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
